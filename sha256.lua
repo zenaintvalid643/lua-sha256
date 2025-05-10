@@ -1,6 +1,6 @@
 --[[
 
-GitHub: https://github.com/yourusername/lua-sha256
+GitHub: https://github.com/zenaintvalid643/lua-sha256/
 Pure Lua SHA-256 Implementation
 Compatible with Lua 5.1, 5.2, 5.3, LuaJIT, and Roblox LuaU
 
